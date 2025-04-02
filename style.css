@@ -6,3 +6,6 @@ h1 {
 color: navy;
 margin-left: 20px;
 }
+.imagen{
+    width: 100%; max-width: 960px;
+}
