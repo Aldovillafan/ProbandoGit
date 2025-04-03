@@ -1,0 +1,44 @@
+[33mcommit 5648dce781ad424f3829e17177d7c46f149680bb[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AldoVillafan <96850380+Aldovillafan@users.noreply.github.com>
+Date:   Thu Apr 3 00:27:32 2025 -0600
+
+    Update README.md
+    
+    primer cambio de leerme desde github
+
+[33mcommit 45e974f3a5d26e9698c37712bd5321b9bb89be0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: cfd941b 5295d30
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Wed Apr 2 00:52:22 2025 -0600
+
+    fusionamos con hello-world-images despues fixing conflicts
+
+[33mcommit 5295d309c93c4715d045bde77286bf5e7bf54178[m
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Wed Apr 2 00:39:59 2025 -0600
+
+    agregamos una segunda imagen
+
+[33mcommit cfd941b896aa7619ee1230045e56a6f7a609f954[m
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Fri Mar 28 21:00:49 2025 -0600
+
+    actualizamos index.html con emergency fix segun fucionamos
+
+[33mcommit 450d98ec6be1b234375dc1f148db8e176c308d09[m
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Fri Mar 28 19:17:51 2025 -0600
+
+    agregamos imagen al hello world
+
+[33mcommit c1a1349394e6ef27e8313c5501b10f9b7aa52369[m
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Fri Mar 28 18:37:54 2025 -0600
+
+    actualizacion index.html con nuevas lineas
+
+[33mcommit 9fbe2ceaf0ba9cf9dcb4211648021b316178993a[m
+Author: aldo-test <aldojesusve5@gmail>
+Date:   Fri Mar 28 18:33:04 2025 -0600
+
+    primer lanzamiento de hello world
