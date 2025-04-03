@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 estamos viendo como usar git con git hub, primera conexion y primera pruebas de uso 
 
 segundo cambio en esta parte ando usando pull
+
+en este parrafo ando haciendo en cambios en local y subirlas en github
